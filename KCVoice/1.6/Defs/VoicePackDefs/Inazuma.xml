@@ -1,0 +1,33 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>VoicePack_KC_Inazuma</defName>
+        <label>KC_Inazuma</label>
+        <description>A voice pack featuring Inazuma from Kantai Collection. I am not fond of fighting, but I will do my best for the Commander... I hope we can settle this peacefully.</description>
+        <category>VAC_KC</category>
+        <gender>Female</gender>
+        <selectList>
+            <li>VACKC_Inazuma_Select</li>
+        </selectList>
+        <attackList>
+            <li>VACKC_Inazuma_Attack</li>
+        </attackList>
+        <movingList>
+            <li>VACKC_Inazuma_Move</li>
+        </movingList>
+        <deathList>
+            <li>VACKC_Inazuma_Death</li>
+        </deathList>
+        <downList>
+            <li>VACKC_Inazuma_Downed</li>
+        </downList>
+		<downPawnList>
+			<li>VACKC_Inazuma_DowningPawn</li>
+		</downPawnList>
+		<hitList>
+			<li>VACKC_Inazuma_Hit</li>
+		</hitList>
+		<painList>
+			<li>VACKC_Inazuma_Pain</li>
+		</painList>
+    </VAC.VoicePackDef>
+</Defs>

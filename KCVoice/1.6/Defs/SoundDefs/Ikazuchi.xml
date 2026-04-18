@@ -1,0 +1,130 @@
+<Defs>
+    <SoundDef>
+        <defName>VACKC_Ikazuchi_Attack</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Atk1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Atk2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Atk3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Ikazuchi_Death</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Death</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Ikazuchi_Downed</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/PawnDown</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Ikazuchi_Move</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Mov1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Mov2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Mov3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Ikazuchi_Select</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Sec1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Sec2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Sec3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Ikazuchi_DowningPawn</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/DowningEnemy1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/DowningEnemy2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Ikazuchi_Hit</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Hitting1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Hitting2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Ikazuchi_Pain</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Dmg1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Ikazuchi/Dmg2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+</Defs>

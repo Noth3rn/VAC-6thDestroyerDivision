@@ -1,0 +1,33 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>VoicePack_KC_Akatsuki</defName>
+        <label>KC_Akatsuki</label>
+        <description>A voice pack featuring Akatsuki from Kantai Collection. Remember this: I shall fight elegantly as a perfect Lady!</description>
+        <category>VAC_KC</category>
+        <gender>Female</gender>
+        <selectList>
+            <li>VACKC_Akatsuki_Select</li>
+        </selectList>
+        <attackList>
+            <li>VACKC_Akatsuki_Attack</li>
+        </attackList>
+        <movingList>
+            <li>VACKC_Akatsuki_Move</li>
+        </movingList>
+        <deathList>
+            <li>VACKC_Akatsuki_Death</li>
+        </deathList>
+        <downList>
+            <li>VACKC_Akatsuki_Downed</li>
+        </downList>
+		<downPawnList>
+			<li>VACKC_Akatsuki_DowningPawn</li>
+		</downPawnList>
+		<hitList>
+			<li>VACKC_Akatsuki_Hit</li>
+		</hitList>
+		<painList>
+			<li>VACKC_Akatsuki_Pain</li>
+		</painList>
+    </VAC.VoicePackDef>
+</Defs>

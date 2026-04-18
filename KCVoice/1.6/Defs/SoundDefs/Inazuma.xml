@@ -1,0 +1,130 @@
+<Defs>
+    <SoundDef>
+        <defName>VACKC_Inazuma_Attack</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Atk1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Atk2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Atk3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Inazuma_Death</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Death</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Inazuma_Downed</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/PawnDown</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Inazuma_Move</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Mov1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Mov2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Mov3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Inazuma_Select</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Sec1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Sec2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Sec3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Inazuma_DowningPawn</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/DowningEnemy1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/DowningEnemy2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Inazuma_Hit</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Hitting1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Hitting2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Inazuma_Pain</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Dmg1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Inazuma/Dmg2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+</Defs>

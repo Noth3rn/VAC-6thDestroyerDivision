@@ -1,0 +1,33 @@
+<Defs>
+    <VAC.VoicePackDef>
+        <defName>VoicePack_KC_Hibiki</defName>
+        <label>KC_Hibiki</label>
+        <description>A voice pack featuring Hibiki from Kantai Collection. Ura! Khorosho.</description>
+        <category>VAC_KC</category>
+        <gender>Female</gender>
+        <selectList>
+            <li>VACKC_Hibiki_Select</li>
+        </selectList>
+        <attackList>
+            <li>VACKC_Hibiki_Attack</li>
+        </attackList>
+        <movingList>
+            <li>VACKC_Hibiki_Move</li>
+        </movingList>
+        <deathList>
+            <li>VACKC_Hibiki_Death</li>
+        </deathList>
+        <downList>
+            <li>VACKC_Hibiki_Downed</li>
+        </downList>
+		<downPawnList>
+			<li>VACKC_Hibiki_DowningPawn</li>
+		</downPawnList>
+		<hitList>
+			<li>VACKC_Hibiki_Hit</li>
+		</hitList>
+		<painList>
+			<li>VACKC_Hibiki_Pain</li>
+		</painList>
+    </VAC.VoicePackDef>
+</Defs>

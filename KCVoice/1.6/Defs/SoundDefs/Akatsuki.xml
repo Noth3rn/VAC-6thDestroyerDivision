@@ -1,0 +1,130 @@
+<Defs>
+    <SoundDef>
+        <defName>VACKC_Akatsuki_Attack</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Atk1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Atk2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Atk3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Akatsuki_Death</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Death</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Akatsuki_Downed</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/PawnDown</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Akatsuki_Move</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Mov1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Mov2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Mov3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Akatsuki_Select</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Sec1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Sec2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Sec3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Akatsuki_DowningPawn</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/DowningEnemy1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/DowningEnemy2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Akatsuki_Hit</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Hitting1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Hitting2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Akatsuki_Pain</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Dmg1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Akatsuki/Dmg2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+</Defs>

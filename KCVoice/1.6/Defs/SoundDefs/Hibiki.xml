@@ -1,0 +1,130 @@
+<Defs>
+    <SoundDef>
+        <defName>VACKC_Hibiki_Attack</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Atk1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Atk2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Atk3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Hibiki_Death</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Death</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Hibiki_Downed</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/PawnDown</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Hibiki_Move</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Mov1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Mov2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Mov3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Hibiki_Select</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Sec1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Sec2</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Sec3</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Hibiki_DowningPawn</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/DowningEnemy1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/DowningEnemy2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Hibiki_Hit</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Hitting1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Hitting2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+
+    <SoundDef>
+        <defName>VACKC_Hibiki_Pain</defName>
+        <context>MapOnly</context>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Dmg1</clipPath></li>
+                    <li Class="AudioGrain_Clip"><clipPath>VAC/Female/Hibiki/Dmg2</clipPath></li>
+                </grains>
+                <volumeRange>95</volumeRange>
+                <distRange>50~55</distRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+</Defs>
